@@ -1,8 +1,8 @@
 import React from 'react';
-import Form from './Form';
-import Dropdown from './Dropdown';
-import Secciones from './Secciones';
-import CartWidget from './CartWidget';
+import Form from '../layouts/Form';
+import Dropdown from '../layouts/Dropdown';
+import Secciones from '../layouts/Secciones';
+import CartWidget from '../layouts/CartWidget';
 
 const Navbar = () => {
   const listDrop = ["Proteinas","Creatinas","Aminoacidos","Quemadores"]

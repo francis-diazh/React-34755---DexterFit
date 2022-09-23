@@ -1,8 +1,8 @@
 import React from 'react';
-import Navbar from './componentes/Navbar';
-import './App.css'
-import Contador from './componentes/Contador';
-import ItemListConteiner from './componentes/ItemListConteiner';
+import Navbar from './content/Navbar';
+import '../styles/App.css'
+import Contador from './layouts/Contador';
+import ItemListConteiner from './layouts/ItemListConteiner';
 
 const App = () => {
     return (
